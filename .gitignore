@@ -1,0 +1,27 @@
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Uploaded files (may contain private data)
+uploads/*
+!uploads/.gitkeep
+
+# Chat history (may contain private conversations)
+chats/*
+!chats/.gitkeep
+
+# IDE settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
