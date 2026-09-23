@@ -7,7 +7,7 @@ A local AI chatbot web application built using **Python, Flask, and Ollama**. Th
 
 Add your chatbot screenshot to the `screenshots` folder and name it `chatbot.png`.
 
-![Ollama Flask Chatbot](screenshots/chatbot.png)
+![Ollama Flask Chatbot](screenshots/llama.png)
 
 ## ✨ Features
 
